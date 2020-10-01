@@ -15,7 +15,7 @@
 
 Este é um projeto de uma plataforma para que professores e alunas se conectem, voltados a amantes do React Navive.
 
-- <a href="https://rocketseat.com.br/">Proffy - Diego Fernandes</a> 
+- <a href="https://rocketseat.com.br/">Proffy</a> - Diego Fernandes 
 
 ### Instalação
 

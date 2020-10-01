@@ -49,4 +49,4 @@ sudo chmod 777 -R keys node_modules
 #### Usando a aplicação
 Utilizando Altair, Insomnia, Postman ou qualquer outro client gráfico, consulte os end-points
 
-p.s: Caso você esteja utilizando o docker ao invés de localhost utilize o ip que está definido no arquivo de docker-compose.yml do **node** para realizar as consultas. ;-)
+p.s: Caso você esteja utilizando o docker ao invés de localhost utilize o ip que está definido no arquivo de docker-compose.yml do **proffy** para realizar as consultas. ;-)

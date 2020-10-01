@@ -20,7 +20,7 @@ git config core.fileMode false
 
 No projeto **proffy** execute o comando abaixo:
 ```
-npm install
+yarn install
 ```
 
 #### Utilizando o docker ao invés do NVM

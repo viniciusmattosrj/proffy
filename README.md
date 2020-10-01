@@ -1,4 +1,4 @@
-# Requerimentos
+## Requerimentos
 
 - Node &ge; 13.10.1
 - Yarn
@@ -17,13 +17,12 @@ Este é um projeto de uma plataforma para que professores e alunas se conectem, 
 
 - <a href="https://rocketseat.com.br/">Proffy - Diego Fernandes</a> 
 
-&nbsp;
-#### Instalação
+### Instalação
 
 Para instalação verifique **[installation documentation](docs/installation.md)**.
 
-## Contribuições
+### Contribuições
 Feedback são sempre bem vindos, então caso identifique pontos que possam ser aprimorados envie o seu PR. ;-)
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
